@@ -276,7 +276,7 @@
                     ],
                     "played": 0,
                     "correct": 0,
-                    "special": ""
+                    "special": "semidep_a"
                 },
                 {
                     "type": "adv",
@@ -749,7 +749,7 @@
                     ],
                     "played": 0,
                     "correct": 0,
-                    "special": ""
+                    "special": "singular"
                 },
                 {
                     "type": "prep",
@@ -1001,7 +1001,7 @@
                     ],
                     "played": 0,
                     "correct": 0,
-                    "special": ""
+                    "special": "dekl"
                 },
                 {
                     "type": "subst",
@@ -1014,7 +1014,7 @@
                     ],
                     "played": 0,
                     "correct": 0,
-                    "special": ""
+                    "special": "dekl"
                 },
                 {
                     "type": "prep",
@@ -1147,7 +1147,7 @@
                     ],
                     "played": 0,
                     "correct": 0,
-                    "special": "pl"
+                    "special": "plural"
                 },
                 {
                     "type": "subst",
@@ -1442,7 +1442,7 @@
                     ],
                     "played": 0,
                     "correct": 0,
-                    "special": "pl"
+                    "special": "plural"
                 },
                 {
                     "type": "adv",
@@ -1735,7 +1735,7 @@
                     ],
                     "played": 0,
                     "correct": 0,
-                    "special": ""
+                    "special": "plural"
                 },
                 {
                     "type": "konj",
@@ -2119,7 +2119,7 @@
                     ],
                     "played": 0,
                     "correct": 0,
-                    "special": ""
+                    "special": "plural"
                 },
                 {
                     "type": "verb",
@@ -2474,7 +2474,7 @@
                     ],
                     "played": 0,
                     "correct": 0,
-                    "special": ""
+                    "special": "plural"
                 },
                 {
                     "type": "subst",
@@ -2607,7 +2607,7 @@
                     ],
                     "played": 0,
                     "correct": 0,
-                    "special": ""
+                    "special": "plural"
                 },
                 {
                     "type": "adv",
@@ -2670,7 +2670,7 @@
                     ],
                     "played": 0,
                     "correct": 0,
-                    "special": ""
+                    "special": "singular"
                 },
                 {
                     "type": "adj",
@@ -3093,6 +3093,301 @@
                     "ppp": "liberatum",
                     "germ": [
                         "befreien"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": ""
+                }
+            ]
+        },
+        {
+            "number": 11,
+            "played": 0,
+            "correct": 0,
+            "vocabulary": [
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "m",
+                    "lat": "Iuppiter",
+                    "gen": "Iovis",
+                    "germ": [
+                        "Jupiter"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "singular"
+                },
+                {
+                    "type": "verb",
+                    "konj": 4,
+                    "lat": "scio",
+                    "perf": "scivi",
+                    "ppp": "scitum",
+                    "germ": [
+                        "wissen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": ""
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "voco",
+                    "perf": "vocavi",
+                    "ppp": "vocatum",
+                    "germ": [
+                        "rufen",
+                        "nennen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": ""
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "impero",
+                    "perf": "imperavi",
+                    "ppp": "imperatum",
+                    "germ": [
+                        "befehlen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": ""
+                },
+                {
+                    "type": "subst",
+                    "dekl": 5,
+                    "gender": "m",
+                    "lat": "mons",
+                    "gen": "montis",
+                    "germ": [
+                        "Berg"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": ""
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "m",
+                    "lat": "rex",
+                    "gen": "regis",
+                    "germ": [
+                        "König"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": ""
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "n",
+                    "lat": "litus",
+                    "gen": "litoris",
+                    "germ": [
+                        "Küste"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": ""
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "iussum",
+                    "gen": "iussi",
+                    "germ": [
+                        "Befehl"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": ""
+                },
+                {
+                    "type": "verb",
+                    "konj": 5,
+                    "lat": "conficio",
+                    "perf": "confeci",
+                    "ppp": "confectum",
+                    "germ": [
+                        "ausführen",
+                        "anfertigen",
+                        "beenden"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": ""
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "soleo",
+                    "perf": "solitus sum",
+                    "ppp": "",
+                    "germ": [
+                        "gewohnt sein",
+                        "pflegen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "semidep_a"
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "locus",
+                    "gen": "loci",
+                    "germ": [
+                        "Ort",
+                        "Stelle",
+                        "Platz"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "singular"
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "f",
+                    "lat": "virgo",
+                    "gen": "virginis",
+                    "germ": [
+                        "Mädchen",
+                        "Jungfrau"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": ""
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "ludo",
+                    "perf": "lusi",
+                    "ppp": "lusum",
+                    "germ": [
+                        "spielen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": ""
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "taurus",
+                    "gen": "tauri",
+                    "germ": [
+                        "Stier"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": ""
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "f",
+                    "lat": "multitudo",
+                    "gen": "multitudinis",
+                    "germ": [
+                        "Menge",
+                        "Vorrat"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": ""
+                },
+                {
+                    "type": "verb",
+                    "konj": 5,
+                    "lat": "conspicio",
+                    "perf": "conspexi",
+                    "ppp": "conspectum",
+                    "germ": [
+                        "erblicken"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": ""
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "f",
+                    "lat": "pulchritudo",
+                    "gen": "pulchritudinis",
+                    "germ": [
+                        "Schönheit"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": ""
+                },
+                {
+                    "type": "adv",
+                    "lat": "primo",
+                    "germ": [
+                        "zuerst"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": ""
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "tango",
+                    "perf": "tetigi",
+                    "ppp": "tactum",
+                    "germ": [
+                        "berühren"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": ""
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "n",
+                    "lat": "corpus",
+                    "gen": "corporis",
+                    "germ": [
+                        "Körper"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": ""
+                },
+                {
+                    "type": "adv",
+                    "lat": "mox",
+                    "germ": [
+                        "bald"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": ""
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "insula",
+                    "gen": "insulae",
+                    "germ": [
+                        "Insel"
                     ],
                     "played": 0,
                     "correct": 0,
