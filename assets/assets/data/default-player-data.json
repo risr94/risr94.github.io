@@ -1,0 +1,23 @@
+﻿{
+    "playerName": "PlayerName",
+    "totalPoints": [
+        0,
+        0,
+        0
+    ],
+    "gamesPlayed": [
+        0,
+        0,
+        0
+    ],
+    "averagePoints": [
+        0,
+        0,
+        0
+    ],
+    "perfectGames": [
+        0,
+        0,
+        0
+    ]
+}

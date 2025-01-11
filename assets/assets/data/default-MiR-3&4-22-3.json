@@ -1,0 +1,5632 @@
+﻿{
+    "book": "MiR-3&4-22-3",
+    "units": [
+        {
+            "number": 1,
+            "played": 0,
+            "correct": 0,
+            "vocabulary": [
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "schola",
+                    "gen": "scholae",
+                    "germ": [
+                        "Schule"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "hic",
+                    "germ": [
+                        "hier"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "sedeo",
+                    "perf": "sedi",
+                    "ppp": "sessum",
+                    "germ": [
+                        "sitzen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "amica",
+                    "gen": "amicae",
+                    "germ": [
+                        "Freundin"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "pron",
+                    "dekl": 12,
+                    "lat": "meus",
+                    "gen": "mei",
+                    "germ": [
+                        "mein"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "discipula",
+                    "gen": "discipulae",
+                    "germ": [
+                        "Schülerin"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "bonus",
+                    "gen": "boni",
+                    "germ": [
+                        "gut"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "semper",
+                    "germ": [
+                        "immer"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "konj",
+                    "lat": "et",
+                    "germ": [
+                        "und"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "amicus",
+                    "gen": "amici",
+                    "germ": [
+                        "Freund"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "konj",
+                    "lat": "sed",
+                    "germ": [
+                        "aber"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "discipulus",
+                    "gen": "discipuli",
+                    "germ": [
+                        "Schüler"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "malus",
+                    "gen": "mali",
+                    "germ": [
+                        "schlecht"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "laetus",
+                    "gen": "laeti",
+                    "germ": [
+                        "froh",
+                        "fröhlich"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "saepe",
+                    "germ": [
+                        "oft"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "rideo",
+                    "perf": "risi",
+                    "ppp": "risum",
+                    "germ": [
+                        "lachen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "pron",
+                    "dekl": -1,
+                    "lat": "cur",
+                    "gen": "",
+                    "germ": [
+                        "warum"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "nunc",
+                    "germ": [
+                        "nun",
+                        "jetzt"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "non",
+                    "germ": [
+                        "nicht"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "pensum",
+                    "gen": "pensi",
+                    "germ": [
+                        "Aufgabe"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "magnus",
+                    "gen": "magni",
+                    "germ": [
+                        "groß"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "itaque",
+                    "germ": [
+                        "deshalb",
+                        "daher"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "gaudeo",
+                    "perf": "gavisus sum",
+                    "ppp": "",
+                    "germ": [
+                        "sich freuen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "semidep_a",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "diu",
+                    "germ": [
+                        "lange"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "laboro",
+                    "perf": "laboravi",
+                    "ppp": "laboratum",
+                    "germ": [
+                        "arbeiten"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "libenter",
+                    "germ": [
+                        "gerne"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "interrogo",
+                    "perf": "interrogavi",
+                    "ppp": "interrogatum",
+                    "germ": [
+                        "fragen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "respondeo",
+                    "perf": "respondi",
+                    "ppp": "responsum",
+                    "germ": [
+                        "antworten"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "tum",
+                    "germ": [
+                        "dann",
+                        "damals"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "clamo",
+                    "perf": "clamavi",
+                    "ppp": "clamatum",
+                    "germ": [
+                        "rufen",
+                        "schreien"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "laudo",
+                    "perf": "laudavi",
+                    "ppp": "laudatum",
+                    "germ": [
+                        "loben"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "played": 0,
+            "correct": 0,
+            "vocabulary": [
+                {
+                    "type": "pron",
+                    "dekl": -1,
+                    "lat": "quid",
+                    "gen": "",
+                    "germ": [
+                        "was"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "doceo",
+                    "perf": "docui",
+                    "ppp": "doctum",
+                    "germ": [
+                        "lehren",
+                        "unterrichten"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "pron",
+                    "dekl": -1,
+                    "lat": "ubi",
+                    "gen": "",
+                    "germ": [
+                        "wo"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "part",
+                    "lat": "iam",
+                    "germ": [
+                        "schon"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "exspecto",
+                    "perf": "exspectavi",
+                    "ppp": "exspectatum",
+                    "germ": [
+                        "erwarten"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "intro",
+                    "perf": "intravi",
+                    "ppp": "intratum",
+                    "germ": [
+                        "eintreten"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "magister",
+                    "gen": "magistri",
+                    "germ": [
+                        "Lehrer"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "amo",
+                    "perf": "amavi",
+                    "ppp": "amatum",
+                    "germ": [
+                        "lieben"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "non solum, sed etiam",
+                    "germ": [
+                        "nicht nur",
+                        "sondern auch"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "etiam",
+                    "germ": [
+                        "auch",
+                        "sogar"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "lingua",
+                    "gen": "linguae",
+                    "germ": [
+                        "Sprache",
+                        "Zunge"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "Latinus",
+                    "gen": "Latini",
+                    "germ": [
+                        "lateinisch"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "Graecus",
+                    "gen": "Graeci",
+                    "germ": [
+                        "griechisch"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "liber",
+                    "gen": "libri",
+                    "germ": [
+                        "Buch"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "konj",
+                    "lat": "quam",
+                    "germ": [
+                        "wie"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "pulcher",
+                    "gen": "pulchri",
+                    "germ": [
+                        "schön"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "verbum",
+                    "gen": "verbi",
+                    "germ": [
+                        "Wort"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "cogito",
+                    "perf": "cogitavi",
+                    "ppp": "cogitatum",
+                    "germ": [
+                        "denken",
+                        "überlegen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "puer",
+                    "gen": "pueri",
+                    "germ": [
+                        "Bub"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "puella",
+                    "gen": "puellae",
+                    "germ": [
+                        "Mädchen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "konj",
+                    "lat": "quod",
+                    "germ": [
+                        "weil"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "pron",
+                    "dekl": -1,
+                    "lat": "quis",
+                    "gen": "",
+                    "germ": [
+                        "wer"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "habeo",
+                    "perf": "habui",
+                    "ppp": "habitum",
+                    "germ": [
+                        "haben"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "specto",
+                    "perf": "spectavi",
+                    "ppp": "spectatum",
+                    "germ": [
+                        "anschauen",
+                        "betrachten"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "oculus",
+                    "gen": "oculi",
+                    "germ": [
+                        "Auge"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "pron",
+                    "dekl": 12,
+                    "lat": "tuus",
+                    "gen": "tui",
+                    "germ": [
+                        "dein"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "moneo",
+                    "perf": "monui",
+                    "ppp": "monitum",
+                    "germ": [
+                        "mahnen",
+                        "ermahnen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "iratus",
+                    "gen": "irati",
+                    "germ": [
+                        "zornig",
+                        "erzürnt"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "played": 0,
+            "correct": 0,
+            "vocabulary": [
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "Roma",
+                    "gen": "Romae",
+                    "germ": [
+                        "Rom"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "singular",
+                    "weight": 1
+                },
+                {
+                    "type": "prep",
+                    "lat": "per",
+                    "germ": [
+                        "durch"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "via",
+                    "gen": "viae",
+                    "germ": [
+                        "Straße"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "ambulo",
+                    "perf": "ambulavi",
+                    "ppp": "ambulatum",
+                    "germ": [
+                        "gehen",
+                        "spazieren"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "pron",
+                    "dekl": 12,
+                    "lat": "multi",
+                    "gen": "multorum",
+                    "germ": [
+                        "viele"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "plural",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "multum",
+                    "germ": [
+                        "viele"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "aedificium",
+                    "gen": "aedificii",
+                    "germ": [
+                        "Gebäude"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "video",
+                    "perf": "vidi",
+                    "ppp": "visum",
+                    "germ": [
+                        "sehen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "part",
+                    "lat": "-que",
+                    "germ": [
+                        "und"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "clarus",
+                    "gen": "clari",
+                    "germ": [
+                        "berühmt",
+                        "hell"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "monstro",
+                    "perf": "monstravi",
+                    "ppp": "monstratum",
+                    "germ": [
+                        "zeigen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "spectaculum",
+                    "gen": "spectaculi",
+                    "germ": [
+                        "Schauspiel"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "ibi",
+                    "germ": [
+                        "dort"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "statua",
+                    "gen": "statuae",
+                    "germ": [
+                        "Statue"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "vir",
+                    "gen": "viri",
+                    "germ": [
+                        "Mann"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "part",
+                    "lat": "-ne",
+                    "germ": [
+                        "Fragepartikel"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "certe",
+                    "germ": [
+                        "sicherlich"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "forum",
+                    "gen": "fori",
+                    "germ": [
+                        "Forum",
+                        "Marktplatz"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "Romanus",
+                    "gen": "Romani",
+                    "germ": [
+                        "römisch"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "templum",
+                    "gen": "templi",
+                    "germ": [
+                        "Tempel"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "tam",
+                    "germ": [
+                        "so"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "deus",
+                    "gen": "dei",
+                    "germ": [
+                        "Gott"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "dekl",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "dea",
+                    "gen": "deae",
+                    "germ": [
+                        "Göttin"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "dekl",
+                    "weight": 1
+                },
+                {
+                    "type": "prep",
+                    "lat": "ante",
+                    "germ": [
+                        "vor"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "prep",
+                    "lat": "post",
+                    "germ": [
+                        "nach",
+                        "hinter"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "solum",
+                    "germ": [
+                        "nur"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "prep",
+                    "lat": "ad",
+                    "germ": [
+                        "zu",
+                        "an",
+                        "bei"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "played": 0,
+            "correct": 0,
+            "vocabulary": [
+                {
+                    "type": "prep",
+                    "lat": "de",
+                    "germ": [
+                        "von",
+                        "über"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "prep",
+                    "lat": "cum",
+                    "germ": [
+                        "mit"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "prep",
+                    "lat": "sine",
+                    "germ": [
+                        "ohne"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "femina",
+                    "gen": "feminae",
+                    "germ": [
+                        "Frau"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "gaudium",
+                    "gen": "gaudii",
+                    "germ": [
+                        "Freude"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "narro",
+                    "perf": "narravi",
+                    "ppp": "narratum",
+                    "germ": [
+                        "erzählen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "Romani",
+                    "gen": "Romanorum",
+                    "germ": [
+                        "Römer"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "plural",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "copia",
+                    "gen": "copiae",
+                    "germ": [
+                        "Menge",
+                        "Vorrat"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "prep",
+                    "lat": "e, ex",
+                    "germ": [
+                        "aus",
+                        "von"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "terra",
+                    "gen": "terrae",
+                    "germ": [
+                        "Land",
+                        "Erde"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "alienus",
+                    "gen": "alieni",
+                    "germ": [
+                        "fremd"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "pugno",
+                    "perf": "pugnavi",
+                    "ppp": "pugnatum",
+                    "germ": [
+                        "kämpfen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "neco",
+                    "perf": "necavi",
+                    "ppp": "necatum",
+                    "germ": [
+                        "töten"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "placeo",
+                    "perf": "placui",
+                    "ppp": "placitum",
+                    "germ": [
+                        "gefallen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "novus",
+                    "gen": "novi",
+                    "germ": [
+                        "neu"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "pron",
+                    "dekl": 12,
+                    "lat": "alius",
+                    "gen": "alii",
+                    "germ": [
+                        "ein anderer"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "gladius",
+                    "gen": "gladii",
+                    "germ": [
+                        "Schwert"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "postremo",
+                    "germ": [
+                        "schließlich",
+                        "endlich"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "supero",
+                    "perf": "superavi",
+                    "ppp": "superatum",
+                    "germ": [
+                        "besiegen",
+                        "übertreffen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "konj",
+                    "lat": "si",
+                    "germ": [
+                        "wenn",
+                        "falls"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "bene",
+                    "germ": [
+                        "gut"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "vita",
+                    "gen": "vitae",
+                    "germ": [
+                        "Leben"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "dono",
+                    "perf": "donavi",
+                    "ppp": "donatum",
+                    "germ": [
+                        "schenken"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "prep",
+                    "lat": "pro",
+                    "germ": [
+                        "für"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "pron",
+                    "dekl": 12,
+                    "lat": "suus",
+                    "gen": "sui",
+                    "germ": [
+                        "sein",
+                        "ihr"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "prep",
+                    "lat": "a, ab",
+                    "germ": [
+                        "von"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "prep",
+                    "lat": "prae",
+                    "germ": [
+                        "vor"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "part",
+                    "lat": "neque (nec)",
+                    "germ": [
+                        "und nicht"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "played": 0,
+            "correct": 0,
+            "vocabulary": [
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "delecto",
+                    "perf": "delectavi",
+                    "ppp": "delectatum",
+                    "germ": [
+                        "(jemanden) erfreuen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "nonne?",
+                    "germ": [
+                        "nicht?"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "Graeci",
+                    "gen": "Graecorum",
+                    "germ": [
+                        "Griechen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "plural",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "ita",
+                    "germ": [
+                        "so"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "num?",
+                    "germ": [
+                        "etwa?"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "pron",
+                    "dekl": 12,
+                    "lat": "vester",
+                    "gen": "vestri",
+                    "germ": [
+                        "euer"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "quoque",
+                    "germ": [
+                        "auch"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "pron",
+                    "dekl": 12,
+                    "lat": "noster",
+                    "gen": "nostri",
+                    "germ": [
+                        "unser"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "prep",
+                    "lat": "in (Abl)",
+                    "germ": [
+                        "in",
+                        "auf"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "animus",
+                    "gen": "animi",
+                    "germ": [
+                        "Sinn",
+                        "Geist",
+                        "Mut"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "prep",
+                    "lat": "in (Akk)",
+                    "germ": [
+                        "in",
+                        "nach",
+                        "gegen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "maneo",
+                    "perf": "mansi",
+                    "ppp": "mansum",
+                    "germ": [
+                        "bleiben"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "propero",
+                    "perf": "properavi",
+                    "ppp": "properatum",
+                    "germ": [
+                        "eilen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "aqua",
+                    "gen": "aquae",
+                    "germ": [
+                        "Wasser"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "iterum",
+                    "germ": [
+                        "wieder",
+                        "wiederum"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "minime",
+                    "germ": [
+                        "keineswegs",
+                        "nein"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "otium",
+                    "gen": "otii",
+                    "germ": [
+                        "Freizeit",
+                        "Erholung"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "prep",
+                    "lat": "sub (Akk)",
+                    "germ": [
+                        "unter…hin"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "prep",
+                    "lat": "sub (Abl)",
+                    "germ": [
+                        "unter"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "terreo",
+                    "perf": "terrui",
+                    "ppp": "territum",
+                    "germ": [
+                        "(jemanden) erschrecken"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "played": 0,
+            "correct": 0,
+            "vocabulary": [
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "filia",
+                    "gen": "filiae",
+                    "germ": [
+                        "Tochter"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "tamen",
+                    "germ": [
+                        "dennoch",
+                        "trotzdem"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "filius",
+                    "gen": "filii",
+                    "germ": [
+                        "Sohn"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "parvus",
+                    "gen": "parvi",
+                    "germ": [
+                        "klein"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "prep",
+                    "lat": "post (nach Abl)",
+                    "germ": [
+                        "später",
+                        "nachher"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "appropinquo",
+                    "perf": "appropinquavi",
+                    "ppp": "appropinquatum",
+                    "germ": [
+                        "sich nähern"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "liberi",
+                    "gen": "liberorum",
+                    "germ": [
+                        "Kinder"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "plural",
+                    "weight": 1
+                },
+                {
+                    "type": "konj",
+                    "lat": "autem",
+                    "germ": [
+                        "aber"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "deinde",
+                    "germ": [
+                        "dann"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "porto",
+                    "perf": "portavi",
+                    "ppp": "portatum",
+                    "germ": [
+                        "tragen",
+                        "bringen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "annus",
+                    "gen": "anni",
+                    "germ": [
+                        "Jahr"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "oppidum",
+                    "gen": "oppidi",
+                    "germ": [
+                        "Stadt"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "aedifico",
+                    "perf": "aedificavi",
+                    "ppp": "aedificatum",
+                    "germ": [
+                        "bauen",
+                        "erbauen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "regno",
+                    "perf": "regnavi",
+                    "ppp": "regnatum",
+                    "germ": [
+                        "regieren",
+                        "herrschen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "gratus",
+                    "gen": "grati",
+                    "germ": [
+                        "dankbar",
+                        "angenehm"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "auxilium",
+                    "gen": "auxilii",
+                    "germ": [
+                        "Hilfe"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "pron",
+                    "dekl": 12,
+                    "lat": "nonnulli",
+                    "gen": "nonnulorum",
+                    "germ": [
+                        "einige"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "plural",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "magnificus",
+                    "gen": "magnifici",
+                    "germ": [
+                        "großartig",
+                        "prächtig"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "prep",
+                    "lat": "trans (Akk)",
+                    "germ": [
+                        "über",
+                        "jenseits von"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "played": 0,
+            "correct": 0,
+            "vocabulary": [
+                {
+                    "type": "verb",
+                    "konj": 4,
+                    "lat": "venio",
+                    "perf": "veni",
+                    "ppp": "ventum",
+                    "germ": [
+                        "kommen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "habito",
+                    "perf": "habitavi",
+                    "ppp": "habitatum",
+                    "germ": [
+                        "wohnen",
+                        "bewohnen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "konj",
+                    "lat": "ut",
+                    "germ": [
+                        "wie; als"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "prep",
+                    "lat": "apud (Akk)",
+                    "germ": [
+                        "bei"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "lego",
+                    "perf": "legi",
+                    "ppp": "lectum",
+                    "germ": [
+                        "lesen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "consilium",
+                    "gen": "consilii",
+                    "germ": [
+                        "Plan",
+                        "Rat"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 5,
+                    "lat": "capio",
+                    "perf": "cepi",
+                    "ppp": "captum",
+                    "germ": [
+                        "fangen",
+                        "ergreifen",
+                        "nehmen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "nuntius",
+                    "gen": "nuntii",
+                    "germ": [
+                        "Bote",
+                        "Nachricht"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "populus",
+                    "gen": "populi",
+                    "germ": [
+                        "Volk"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "mitto",
+                    "perf": "misi",
+                    "ppp": "missum",
+                    "germ": [
+                        "schicken"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "dico",
+                    "perf": "dixi",
+                    "ppp": "dictum",
+                    "germ": [
+                        "sagen",
+                        "nennen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "paro",
+                    "perf": "paravi",
+                    "ppp": "paratum",
+                    "germ": [
+                        "vorbereiten",
+                        "erwerben"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 4,
+                    "lat": "audio",
+                    "perf": "audivi",
+                    "ppp": "auditum",
+                    "germ": [
+                        "hören"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "nam",
+                    "germ": [
+                        "denn",
+                        "nämlich"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "konj",
+                    "lat": "dum",
+                    "germ": [
+                        "während"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "subito",
+                    "germ": [
+                        "plötzlich"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 5,
+                    "lat": "rapio",
+                    "perf": "rapui",
+                    "ppp": "raptum",
+                    "germ": [
+                        "rauben"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "arma",
+                    "gen": "armorum",
+                    "germ": [
+                        "Waffen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "plural",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "adiuvo",
+                    "perf": "adiuvi",
+                    "ppp": "adiutum",
+                    "germ": [
+                        "helfen",
+                        "unterstützen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "relinquo",
+                    "perf": "reliqui",
+                    "ppp": "relictum",
+                    "germ": [
+                        "verlassen",
+                        "zurücklassen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "iniuria",
+                    "gen": "iniuriae",
+                    "germ": [
+                        "Unrecht"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "tolero",
+                    "perf": "toleravi",
+                    "ppp": "toleratum",
+                    "germ": [
+                        "ertragen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "bellum",
+                    "gen": "belli",
+                    "germ": [
+                        "Krieg"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "gero",
+                    "perf": "gessi",
+                    "ppp": "gestum",
+                    "germ": [
+                        "(aus)führen",
+                        "tun"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "prep",
+                    "lat": "inter (Akk)",
+                    "germ": [
+                        "zwischen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "contendo",
+                    "perf": "contendi",
+                    "ppp": "contentum",
+                    "germ": [
+                        "eilen",
+                        "kämpfen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "number": 8,
+            "played": 0,
+            "correct": 0,
+            "vocabulary": [
+                {
+                    "type": "pron",
+                    "dekl": 12,
+                    "lat": "ceteri",
+                    "gen": "ceterorum",
+                    "germ": [
+                        "die übrigen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "plural",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "hora",
+                    "gen": "horae",
+                    "germ": [
+                        "Stunde"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "konj",
+                    "lat": "neque-neque (nec-nec)",
+                    "germ": [
+                        "weder-noch"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "servus",
+                    "gen": "servi",
+                    "germ": [
+                        "Sklave"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "occupo",
+                    "perf": "occupavi",
+                    "ppp": "occupatum",
+                    "germ": [
+                        "besetzen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "exemplum",
+                    "gen": "exempli",
+                    "germ": [
+                        "Beispiel"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "culpa",
+                    "gen": "culpae",
+                    "germ": [
+                        "Schuld"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "resisto",
+                    "perf": "restiti",
+                    "ppp": "",
+                    "germ": [
+                        "Widerstand leisten"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "part",
+                    "lat": "non iam",
+                    "germ": [
+                        "nicht mehr"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "committo",
+                    "perf": "commisi",
+                    "ppp": "commissum",
+                    "germ": [
+                        "begehen",
+                        "beginnen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "konj",
+                    "lat": "nisi",
+                    "germ": [
+                        "wenn nicht",
+                        "falls nicht"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "familia",
+                    "gen": "familiae",
+                    "germ": [
+                        "Familie"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "pareo",
+                    "perf": "parui",
+                    "ppp": "",
+                    "germ": [
+                        "gehorchen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "expello",
+                    "perf": "expuli",
+                    "ppp": "expulsum",
+                    "germ": [
+                        "vertreiben",
+                        "verjagen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 5,
+                    "lat": "facio",
+                    "perf": "feci",
+                    "ppp": "factum",
+                    "germ": [
+                        "machen",
+                        "tun"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "konj",
+                    "lat": "postquam",
+                    "germ": [
+                        "nachdem"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "maxime",
+                    "germ": [
+                        "sehr; am meisten"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "number": 9,
+            "played": 0,
+            "correct": 0,
+            "vocabulary": [
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "timeo",
+                    "perf": "timui",
+                    "ppp": "",
+                    "germ": [
+                        "fürchten",
+                        "sich fürchten"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "Galli",
+                    "gen": "Gallorum",
+                    "germ": [
+                        "Gallier"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "plural",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "n",
+                    "lat": "flumen",
+                    "gen": "fluminis",
+                    "germ": [
+                        "Fluss"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "m",
+                    "lat": "miles",
+                    "gen": "militis",
+                    "germ": [
+                        "Soldat"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 5,
+                    "lat": "fugio",
+                    "perf": "fugi",
+                    "ppp": "",
+                    "germ": [
+                        "flüchten",
+                        "fliehen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "deleo",
+                    "perf": "delevi",
+                    "ppp": "delectum",
+                    "germ": [
+                        "zerstören"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "oppugno",
+                    "perf": "oppugnavi",
+                    "ppp": "oppugnatum",
+                    "germ": [
+                        "bestürmen",
+                        "belagern"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "expugnare",
+                    "perf": "expugnavi",
+                    "ppp": "expugnatum",
+                    "germ": [
+                        "erobern"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "f",
+                    "lat": "nox",
+                    "gen": "noctis",
+                    "germ": [
+                        "Nacht"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 4,
+                    "lat": "dormio",
+                    "perf": "dormivi",
+                    "ppp": "dormitum",
+                    "germ": [
+                        "schlafen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "constituo",
+                    "perf": "constitui",
+                    "ppp": "constitutum",
+                    "germ": [
+                        "beschließen",
+                        "festsetzen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "castra",
+                    "gen": "castrorum",
+                    "germ": [
+                        "Lager"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "plural",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "clam",
+                    "germ": [
+                        "heimlich"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "ascendo",
+                    "perf": "ascendi",
+                    "ppp": "ascensum",
+                    "germ": [
+                        "hinaufsteigen",
+                        "besteigen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "m",
+                    "lat": "homo",
+                    "gen": "hominis",
+                    "germ": [
+                        "Mensch"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "m",
+                    "lat": "canis",
+                    "gen": "canis",
+                    "germ": [
+                        "Hund"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "f",
+                    "lat": "Iuno",
+                    "gen": "Iunonis",
+                    "germ": [
+                        "Juno"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "singular",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "sacer",
+                    "gen": "sacri",
+                    "germ": [
+                        "heilig",
+                        "geweiht"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "konj",
+                    "lat": "quamquam",
+                    "germ": [
+                        "obwohl"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "careo",
+                    "perf": "carui",
+                    "ppp": "",
+                    "germ": [
+                        "frei sein von",
+                        "nicht haben"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "f",
+                    "lat": "vox",
+                    "gen": "vocis",
+                    "germ": [
+                        "Stimme"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "m",
+                    "lat": "clamor",
+                    "gen": "clamoris",
+                    "germ": [
+                        "Geschrei",
+                        "Lärm"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "statim",
+                    "germ": [
+                        "sofort",
+                        "sogleich"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "servo",
+                    "perf": "servavi",
+                    "ppp": "servatum",
+                    "germ": [
+                        "retten",
+                        "bewahren"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "gloria",
+                    "gen": "gloriae",
+                    "germ": [
+                        "Ruhm",
+                        "Ehre"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "n",
+                    "lat": "nomen",
+                    "gen": "nominis",
+                    "germ": [
+                        "Name"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 5,
+                    "lat": "accipio",
+                    "perf": "accepi",
+                    "ppp": "acceptum",
+                    "germ": [
+                        "erhalten",
+                        "annehmen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "number": 10,
+            "played": 0,
+            "correct": 0,
+            "vocabulary": [
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "m",
+                    "lat": "imperator",
+                    "gen": "imperatoris",
+                    "germ": [
+                        "Feldherr",
+                        "Kaiser"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "f",
+                    "lat": "virtus",
+                    "gen": "virtutis",
+                    "germ": [
+                        "Tapferkeit",
+                        "Tugend"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "duco",
+                    "perf": "duxi",
+                    "ppp": "ductum",
+                    "germ": [
+                        "führen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 5,
+                    "gender": "f",
+                    "lat": "navis",
+                    "gen": "navis",
+                    "germ": [
+                        "Schiff"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 4,
+                    "gender": "n",
+                    "lat": "mare",
+                    "gen": "maris",
+                    "germ": [
+                        "Meer"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "audeo",
+                    "perf": "ausus sum",
+                    "ppp": "",
+                    "germ": [
+                        "wagen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "amitto",
+                    "perf": "amisi",
+                    "ppp": "amissum",
+                    "germ": [
+                        "verlieren"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "pugna",
+                    "gen": "pugnae",
+                    "germ": [
+                        "Kampf"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "vinco",
+                    "perf": "vici",
+                    "ppp": "victum",
+                    "germ": [
+                        "siegen",
+                        "besiegen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 5,
+                    "gender": "f",
+                    "lat": "pars",
+                    "gen": "partis",
+                    "germ": [
+                        "Teil"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "m",
+                    "lat": "timor",
+                    "gen": "timoris",
+                    "germ": [
+                        "Furcht",
+                        "Angst"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "part",
+                    "lat": "ne…quidem",
+                    "germ": [
+                        "nicht einmal…"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "prohibeo",
+                    "perf": "prohibui",
+                    "ppp": "prohibitum",
+                    "germ": [
+                        "abhalten",
+                        "verhindern"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "occido",
+                    "perf": "occidi",
+                    "ppp": "occisum",
+                    "germ": [
+                        "töten"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 5,
+                    "gender": "f",
+                    "lat": "urbs",
+                    "gen": "urbis",
+                    "germ": [
+                        "Stadt"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "porta",
+                    "gen": "portae",
+                    "germ": [
+                        "Tor",
+                        "Tür"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "summus",
+                    "gen": "summi",
+                    "germ": [
+                        "höchster"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "m",
+                    "lat": "honor",
+                    "gen": "honoris",
+                    "germ": [
+                        "Ehre",
+                        "Ansehen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "patria",
+                    "gen": "patriae",
+                    "germ": [
+                        "Heimat"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "f",
+                    "lat": "pax",
+                    "gen": "pacis",
+                    "germ": [
+                        "Friede"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 5,
+                    "gender": "m",
+                    "lat": "hostis",
+                    "gen": "hostis",
+                    "germ": [
+                        "Feind"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "libero",
+                    "perf": "liberavi",
+                    "ppp": "liberatum",
+                    "germ": [
+                        "befreien"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "number": 11,
+            "played": 0,
+            "correct": 0,
+            "vocabulary": [
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "m",
+                    "lat": "Iuppiter",
+                    "gen": "Iovis",
+                    "germ": [
+                        "Jupiter"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "singular",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 4,
+                    "lat": "scio",
+                    "perf": "scivi",
+                    "ppp": "scitum",
+                    "germ": [
+                        "wissen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "voco",
+                    "perf": "vocavi",
+                    "ppp": "vocatum",
+                    "germ": [
+                        "rufen",
+                        "nennen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "impero",
+                    "perf": "imperavi",
+                    "ppp": "imperatum",
+                    "germ": [
+                        "befehlen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 5,
+                    "gender": "m",
+                    "lat": "mons",
+                    "gen": "montis",
+                    "germ": [
+                        "Berg"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "m",
+                    "lat": "rex",
+                    "gen": "regis",
+                    "germ": [
+                        "König"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "n",
+                    "lat": "litus",
+                    "gen": "litoris",
+                    "germ": [
+                        "Küste"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "iussum",
+                    "gen": "iussi",
+                    "germ": [
+                        "Befehl"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 5,
+                    "lat": "conficio",
+                    "perf": "confeci",
+                    "ppp": "confectum",
+                    "germ": [
+                        "ausführen",
+                        "anfertigen",
+                        "beenden"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "soleo",
+                    "perf": "solitus sum",
+                    "ppp": "",
+                    "germ": [
+                        "gewohnt sein",
+                        "pflegen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "semidep_a",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "locus",
+                    "gen": "loci",
+                    "germ": [
+                        "Ort",
+                        "Stelle",
+                        "Platz"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "singular",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "f",
+                    "lat": "virgo",
+                    "gen": "virginis",
+                    "germ": [
+                        "Mädchen",
+                        "Jungfrau"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "ludo",
+                    "perf": "lusi",
+                    "ppp": "lusum",
+                    "germ": [
+                        "spielen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "taurus",
+                    "gen": "tauri",
+                    "germ": [
+                        "Stier"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "f",
+                    "lat": "multitudo",
+                    "gen": "multitudinis",
+                    "germ": [
+                        "Menge",
+                        "Vorrat"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 5,
+                    "lat": "conspicio",
+                    "perf": "conspexi",
+                    "ppp": "conspectum",
+                    "germ": [
+                        "erblicken"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "f",
+                    "lat": "pulchritudo",
+                    "gen": "pulchritudinis",
+                    "germ": [
+                        "Schönheit"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "primo",
+                    "germ": [
+                        "zuerst"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "tango",
+                    "perf": "tetigi",
+                    "ppp": "tactum",
+                    "germ": [
+                        "berühren"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "n",
+                    "lat": "corpus",
+                    "gen": "corporis",
+                    "germ": [
+                        "Körper"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "mox",
+                    "germ": [
+                        "bald"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "insula",
+                    "gen": "insulae",
+                    "germ": [
+                        "Insel"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "number": 12,
+            "played": 0,
+            "correct": 0,
+            "vocabulary": [
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "m",
+                    "lat": "pater",
+                    "gen": "patris",
+                    "germ": [
+                        "Vater"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "quaero",
+                    "perf": "quaesivi",
+                    "ppp": "quaesitum",
+                    "germ": [
+                        "suchen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "m",
+                    "lat": "parentes",
+                    "gen": "parentum",
+                    "germ": [
+                        "Eltern"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "plural",
+                    "weight": 1
+                },
+                {
+                    "type": "pron",
+                    "dekl": -1,
+                    "lat": "nihil",
+                    "gen": "",
+                    "germ": [
+                        "nichts"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "pron",
+                    "dekl": -1,
+                    "lat": "nihil nisi",
+                    "gen": "",
+                    "germ": [
+                        "nichts außer; nur"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "debeo",
+                    "perf": "debui",
+                    "ppp": "debitum",
+                    "germ": [
+                        "müssen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "n",
+                    "lat": "caput",
+                    "gen": "capitis",
+                    "germ": [
+                        "Kopf",
+                        "Haupt"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "periculum",
+                    "gen": "periculi",
+                    "germ": [
+                        "Gefahr"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 5,
+                    "lat": "interficio",
+                    "perf": "interfeci",
+                    "ppp": "interfectum",
+                    "germ": [
+                        "töten"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "miser",
+                    "gen": "miseri",
+                    "germ": [
+                        "arm",
+                        "elend",
+                        "unglücklich"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "navigo",
+                    "perf": "navigavi",
+                    "ppp": "navigatum",
+                    "germ": [
+                        "segeln",
+                        "mit dem Schiff fahren"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "m",
+                    "lat": "adulescens",
+                    "gen": "adulescentis",
+                    "germ": [
+                        "junger Mann"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "iuvo",
+                    "perf": "iuvi",
+                    "ppp": "iutum",
+                    "germ": [
+                        "helfen",
+                        "unterstützen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "pron",
+                    "dekl": -1,
+                    "lat": "nemo",
+                    "gen": "",
+                    "germ": [
+                        "niemand"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 4,
+                    "lat": "invenio",
+                    "perf": "inveni",
+                    "ppp": "inventum",
+                    "germ": [
+                        "finden",
+                        "erfinden"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "cura",
+                    "gen": "curae",
+                    "germ": [
+                        "Sorge"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "konj",
+                    "lat": "quomodo",
+                    "germ": [
+                        "wie"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "modus",
+                    "gen": "modi",
+                    "germ": [
+                        "Art",
+                        "Weise"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "do",
+                    "perf": "dedi",
+                    "ppp": "datum",
+                    "germ": [
+                        "geben"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "medius",
+                    "gen": "medii",
+                    "germ": [
+                        "der mittlere; in der Mitte"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "paratus",
+                    "gen": "parati",
+                    "germ": [
+                        "bereit"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "konj",
+                    "lat": "atque (ac)",
+                    "germ": [
+                        "und"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "number": 13,
+            "played": 0,
+            "correct": 0,
+            "vocabulary": [
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "m",
+                    "lat": "amor",
+                    "gen": "amoris",
+                    "germ": [
+                        "Liebe"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 5,
+                    "lat": "cupio",
+                    "perf": "cupivi",
+                    "ppp": "cupitum",
+                    "germ": [
+                        "wünschen",
+                        "begehren"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "peto",
+                    "perf": "petivi",
+                    "ppp": "petitum",
+                    "germ": [
+                        "anstreben",
+                        "aufsuchen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 7,
+                    "gender": "f",
+                    "lat": "manus",
+                    "gen": "manus",
+                    "germ": [
+                        "Hand"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "artificium",
+                    "gen": "artificii",
+                    "germ": [
+                        "Kunstwerk"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 6,
+                    "gender": "f",
+                    "lat": "res",
+                    "gen": "rei",
+                    "germ": [
+                        "Sache"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 5,
+                    "gender": "f",
+                    "lat": "ars",
+                    "gen": "artis",
+                    "germ": [
+                        "Kunst",
+                        "Technik"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 7,
+                    "gender": "m",
+                    "lat": "casus",
+                    "gen": "casus",
+                    "germ": [
+                        "Fall",
+                        "Zufall",
+                        "Unglücksfall"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "coniungo",
+                    "perf": "coniunxi",
+                    "ppp": "coniunctum",
+                    "germ": [
+                        "verbinden",
+                        "vereinigen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 6,
+                    "gender": "m",
+                    "lat": "dies",
+                    "gen": "diei",
+                    "germ": [
+                        "Tag"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "n",
+                    "lat": "opus",
+                    "gen": "operis",
+                    "germ": [
+                        "Werk"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 6,
+                    "gender": "m",
+                    "lat": "meridies",
+                    "gen": "meridiei",
+                    "germ": [
+                        "Mittag"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "m",
+                    "lat": "sol",
+                    "gen": "solis",
+                    "germ": [
+                        "Sonne"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "caelum",
+                    "gen": "caeli",
+                    "germ": [
+                        "Himmel"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 7,
+                    "gender": "m",
+                    "lat": "metus",
+                    "gen": "metus",
+                    "germ": [
+                        "Furcht",
+                        "Angst"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "denique",
+                    "germ": [
+                        "schließlich",
+                        "endlich"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "neglego",
+                    "perf": "neglexi",
+                    "ppp": "neglectum",
+                    "germ": [
+                        "missachten",
+                        "ignorieren"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "solvo",
+                    "perf": "solvi",
+                    "ppp": "solutum",
+                    "germ": [
+                        "lösen",
+                        "auflösen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "cado",
+                    "perf": "cecidi",
+                    "ppp": "",
+                    "germ": [
+                        "fallen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "mortuus",
+                    "gen": "mortui",
+                    "germ": [
+                        "tot",
+                        "gestorben"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "number": 14,
+            "played": 0,
+            "correct": 0,
+            "vocabulary": [
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "cena",
+                    "gen": "cenae",
+                    "germ": [
+                        "Mahlzeit",
+                        "Mahl"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "invito",
+                    "perf": "invitavi",
+                    "ppp": "invitatum",
+                    "germ": [
+                        "einladen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "n",
+                    "lat": "facinus",
+                    "gen": "facinoris",
+                    "germ": [
+                        "Tat",
+                        "Untat"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "prudentia",
+                    "gen": "prudentiae",
+                    "germ": [
+                        "Klugheit"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "intellego",
+                    "perf": "intellexi",
+                    "ppp": "intellectum",
+                    "germ": [
+                        "erkennen",
+                        "einsehen",
+                        "verstehen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "reddo",
+                    "perf": "reddidi",
+                    "ppp": "redditum",
+                    "germ": [
+                        "zurückgeben"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "poena",
+                    "gen": "poenae",
+                    "germ": [
+                        "Strafe"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "sto",
+                    "perf": "steti",
+                    "ppp": "statum",
+                    "germ": [
+                        "stehen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "f",
+                    "lat": "arbor",
+                    "gen": "arboris",
+                    "germ": [
+                        "Baum"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 4,
+                    "gender": "f",
+                    "lat": "sitis",
+                    "gen": "sitis",
+                    "germ": [
+                        "Durst"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "f",
+                    "lat": "fames",
+                    "gen": "famis",
+                    "germ": [
+                        "Hunger"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "konj",
+                    "lat": "cum",
+                    "germ": [
+                        "wenn",
+                        "sooft",
+                        "als"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "bibo",
+                    "perf": "bibi",
+                    "ppp": "",
+                    "germ": [
+                        "trinken"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "improbus",
+                    "gen": "improbi",
+                    "germ": [
+                        "schlecht",
+                        "böse"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "n",
+                    "lat": "scelus",
+                    "gen": "sceleris",
+                    "germ": [
+                        "Verbrechen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 5,
+                    "gender": "f",
+                    "lat": "mors",
+                    "gen": "mortis",
+                    "germ": [
+                        "Tod"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "prep",
+                    "lat": "contra",
+                    "germ": [
+                        "gegen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "natura",
+                    "gen": "naturae",
+                    "germ": [
+                        "Natur"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "n",
+                    "lat": "genus",
+                    "gen": "generis",
+                    "germ": [
+                        "Art",
+                        "Geschlecht"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 4,
+                    "lat": "punio",
+                    "perf": "punivi",
+                    "ppp": "punitum",
+                    "germ": [
+                        "bestrafen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "saxum",
+                    "gen": "saxi",
+                    "germ": [
+                        "Fels"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "paene",
+                    "germ": [
+                        "fast",
+                        "beinahe"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "number": 15,
+            "played": 0,
+            "correct": 0,
+            "vocabulary": [
+                {
+                    "type": "konj",
+                    "lat": "et…et",
+                    "germ": [
+                        "sowoh…als auch"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 4,
+                    "gender": "n",
+                    "lat": "animal",
+                    "gen": "animalis",
+                    "germ": [
+                        "Tier"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "n",
+                    "lat": "carmen",
+                    "gen": "carminis",
+                    "germ": [
+                        "Lied"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "cano",
+                    "perf": "cecini",
+                    "ppp": "",
+                    "germ": [
+                        "singen",
+                        "besingen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "olim",
+                    "germ": [
+                        "einst"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "matrimonium",
+                    "gen": "matrimonii",
+                    "germ": [
+                        "Ehe"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "m",
+                    "lat": "dolor",
+                    "gen": "doloris",
+                    "germ": [
+                        "Schmerz"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "fleo",
+                    "perf": "flevi",
+                    "ppp": "fletum",
+                    "germ": [
+                        "weinen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "doleo",
+                    "perf": "dolui",
+                    "ppp": "",
+                    "germ": [
+                        "trauern",
+                        "Schmerz empfinden"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "moveo",
+                    "perf": "movi",
+                    "ppp": "motum",
+                    "germ": [
+                        "bewegen",
+                        "beeindrucken"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "pron",
+                    "dekl": 12,
+                    "lat": "cuncti",
+                    "gen": "cunctorum",
+                    "germ": [
+                        "alle(s)"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "plural",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "frustra",
+                    "germ": [
+                        "vergeblich"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "desino",
+                    "perf": "desii",
+                    "ppp": "",
+                    "germ": [
+                        "aufhören",
+                        "ablassen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "consido",
+                    "perf": "consedi",
+                    "ppp": "",
+                    "germ": [
+                        "sich niedersetzen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "ignotus",
+                    "gen": "ignoti",
+                    "germ": [
+                        "unbekannt"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "regina",
+                    "gen": "reginae",
+                    "germ": [
+                        "Königin"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "f",
+                    "lat": "uxor",
+                    "gen": "uxoris",
+                    "germ": [
+                        "Gattin",
+                        "Ehefrau"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "f",
+                    "lat": "condicio",
+                    "gen": "condicionis",
+                    "germ": [
+                        "Bedingung"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "n",
+                    "lat": "iter",
+                    "gen": "itineris",
+                    "germ": [
+                        "Reise",
+                        "Weg"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "verto",
+                    "perf": "verti",
+                    "ppp": "versum",
+                    "germ": [
+                        "drehen",
+                        "wenden"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 7,
+                    "gender": "f",
+                    "lat": "domus",
+                    "gen": "domus",
+                    "germ": [
+                        "Haus"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "longus",
+                    "gen": "longi",
+                    "germ": [
+                        "lang"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "f",
+                    "lat": "lux",
+                    "gen": "lucis",
+                    "germ": [
+                        "Licht"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "number": 16,
+            "played": 0,
+            "correct": 0,
+            "vocabulary": [
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "f",
+                    "lat": "natio",
+                    "gen": "nationis",
+                    "germ": [
+                        "Volk"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 3,
+                    "lat": "nobilis",
+                    "gen": "nobilis",
+                    "germ": [
+                        "vornehm",
+                        "adelig"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "zwei",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "natus",
+                    "gen": "nati",
+                    "germ": [
+                        "geboren",
+                        "abstammend"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 3,
+                    "lat": "fortis",
+                    "gen": "fortis",
+                    "germ": [
+                        "tapfer"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "zwei",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "m",
+                    "lat": "gladiator",
+                    "gen": "gladiatoris",
+                    "germ": [
+                        "Gladiator"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 3,
+                    "lat": "crudelis",
+                    "gen": "crudelis",
+                    "germ": [
+                        "grausam"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "zwei",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "varius",
+                    "gen": "varii",
+                    "germ": [
+                        "verschieden"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "disco",
+                    "perf": "didici",
+                    "ppp": "",
+                    "germ": [
+                        "lernen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 3,
+                    "lat": "difficilis",
+                    "gen": "difficilis",
+                    "germ": [
+                        "schwierig"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "zwei",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 7,
+                    "gender": "m",
+                    "lat": "exercitus",
+                    "gen": "exercitus",
+                    "germ": [
+                        "Heer"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 3,
+                    "lat": "brevis",
+                    "gen": "brevis",
+                    "germ": [
+                        "kurz"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "zwei",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "n",
+                    "lat": "tempus",
+                    "gen": "temporis",
+                    "germ": [
+                        "Zeit"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "ago",
+                    "perf": "egi",
+                    "ppp": "actum",
+                    "germ": [
+                        "tun",
+                        "verbringen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "exerceo",
+                    "perf": "exercui",
+                    "ppp": "exercitum",
+                    "germ": [
+                        "trainieren",
+                        "üben"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 3,
+                    "lat": "celer",
+                    "gen": "celeris",
+                    "germ": [
+                        "schnell"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "drei",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "ager",
+                    "gen": "agri",
+                    "germ": [
+                        "Feld"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "latus",
+                    "gen": "lati",
+                    "germ": [
+                        "weit",
+                        "breit"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 5,
+                    "lat": "recipio",
+                    "perf": "recepi",
+                    "ppp": "receptum",
+                    "germ": [
+                        "aufnehmen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "contineo",
+                    "perf": "continui",
+                    "ppp": "",
+                    "germ": [
+                        "zusammenhalten",
+                        "enthalten"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "f",
+                    "lat": "cupiditas",
+                    "gen": "cupiditatis",
+                    "germ": [
+                        "Begierde",
+                        "Gier"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "adductus",
+                    "gen": "adducti",
+                    "germ": [
+                        "veranlasst"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 7,
+                    "gender": "",
+                    "lat": "senatus",
+                    "gen": "senatus",
+                    "germ": [
+                        "Senat"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "cognosco",
+                    "perf": "cognovi",
+                    "ppp": "cognitum",
+                    "germ": [
+                        "erkennen",
+                        "erfahren"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 3,
+                    "lat": "atrox",
+                    "gen": "atrocis",
+                    "germ": [
+                        "wild",
+                        "grässlich"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "eins",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "f",
+                    "lat": "crux",
+                    "gen": "crucis",
+                    "germ": [
+                        "Kreuz"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "number": 17,
+            "played": 0,
+            "correct": 0,
+            "vocabulary": [
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "littera",
+                    "gen": "litterae",
+                    "germ": [
+                        "Buchstabe"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "litterae",
+                    "gen": "litterarum",
+                    "germ": [
+                        "Wissenschaft",
+                        "Brief"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "plural",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 5,
+                    "gender": "m",
+                    "lat": "iuvenis",
+                    "gen": "iuvenis",
+                    "germ": [
+                        "junger Mann"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "m",
+                    "lat": "orator",
+                    "gen": "oratoris",
+                    "germ": [
+                        "Redner"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "iustitia",
+                    "gen": "iustitiae",
+                    "germ": [
+                        "Gerechtigkeit"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "m",
+                    "lat": "incola",
+                    "gen": "incolae",
+                    "germ": [
+                        "Einwohner"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "provincia",
+                    "gen": "provinciae",
+                    "germ": [
+                        "Provinz"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 1,
+                    "gender": "f",
+                    "lat": "divitia",
+                    "gen": "divitiarum",
+                    "germ": [
+                        "Reichtum"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "plural",
+                    "weight": 1
+                },
+                {
+                    "type": "adj",
+                    "dekl": 12,
+                    "lat": "antiquus",
+                    "gen": "antiqui",
+                    "germ": [
+                        "alt"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "f",
+                    "lat": "nobilitas",
+                    "gen": "nobilitatis",
+                    "germ": [
+                        "Adel"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "n",
+                    "lat": "ius",
+                    "gen": "iuris",
+                    "germ": [
+                        "Recht"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "f",
+                    "lat": "oratio",
+                    "gen": "orationis",
+                    "germ": [
+                        "Rede"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "iudicium",
+                    "gen": "iudicii",
+                    "germ": [
+                        "Urteil"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "part",
+                    "lat": "sponte sua",
+                    "germ": [
+                        "freiwillig"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "n",
+                    "lat": "exilium",
+                    "gen": "exilii",
+                    "germ": [
+                        "Verbannung"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "studeo",
+                    "perf": "studui",
+                    "ppp": "",
+                    "germ": [
+                        "sich bemühen",
+                        "streben"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "m",
+                    "lat": "consul",
+                    "gen": "consulis",
+                    "germ": [
+                        "Konsul"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "cogo",
+                    "perf": "coegi",
+                    "ppp": "coactum",
+                    "germ": [
+                        "sammeln",
+                        "zwingen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 1,
+                    "lat": "convoco",
+                    "perf": "convocavi",
+                    "ppp": "convocatum",
+                    "germ": [
+                        "zusammenrufen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 3,
+                    "gender": "m",
+                    "lat": "senator",
+                    "gen": "senatoris",
+                    "germ": [
+                        "Senator"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "adv",
+                    "lat": "fere",
+                    "germ": [
+                        "fast",
+                        "ungefähr"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 2,
+                    "lat": "iubeo",
+                    "perf": "iussi",
+                    "ppp": "iussum",
+                    "germ": [
+                        "befehlen",
+                        "lassen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "subst",
+                    "dekl": 2,
+                    "gender": "m",
+                    "lat": "socius",
+                    "gen": "socii",
+                    "germ": [
+                        "Gefährte",
+                        "Freund"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 3,
+                    "lat": "comprehendo",
+                    "perf": "comprehendi",
+                    "ppp": "comprehensum",
+                    "germ": [
+                        "ergreifen",
+                        "erfassen"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": 5,
+                    "lat": "afficio",
+                    "perf": "affeci",
+                    "ppp": "affectum",
+                    "germ": [
+                        "erfüllen",
+                        "versehen mit"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "konj",
+                    "lat": "priusquam",
+                    "germ": [
+                        "bevor"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}
