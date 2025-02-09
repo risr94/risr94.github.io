@@ -291,8 +291,8 @@
                     "type": "verb",
                     "konj": 2,
                     "lat": "gaudeo",
-                    "perf": "gavisus sum",
-                    "ppp": "",
+                    "perf": "",
+                    "ppp": "gavisus",
                     "germ": [
                         "sich freuen"
                     ],
@@ -868,7 +868,7 @@
                     "type": "adv",
                     "lat": "multum",
                     "germ": [
-                        "viele"
+                        "viel"
                     ],
                     "played": 0,
                     "correct": 0,
@@ -1354,11 +1354,24 @@
                 },
                 {
                     "type": "pron",
-                    "dekl": 12,
+                    "dekl": 0,
                     "lat": "alius",
                     "gen": "alii",
                     "germ": [
                         "ein anderer"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "pron",
+                    "dekl": 0,
+                    "lat": "alius - alius",
+                    "gen": "",
+                    "germ": [
+                        "der eine - der andere"
                     ],
                     "played": 0,
                     "correct": 0,
@@ -1839,6 +1852,17 @@
                     "weight": 1
                 },
                 {
+                    "type": "part",
+                    "lat": "paulo post",
+                    "germ": [
+                        "wenig später"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "",
+                    "weight": 1
+                },
+                {
                     "type": "prep",
                     "lat": "post (nach Abl)",
                     "germ": [
@@ -1930,6 +1954,20 @@
                     "weight": 1
                 },
                 {
+                    "type": "verb",
+                    "konj": -1,
+                    "lat": "sum",
+                    "perf": "fui",
+                    "ppp": "",
+                    "germ": [
+                        "sein"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "konj",
+                    "weight": 1
+                },
+                {
                     "type": "subst",
                     "dekl": 2,
                     "gender": "n",
@@ -1971,6 +2009,20 @@
                     "played": 0,
                     "correct": 0,
                     "special": "",
+                    "weight": 1
+                },
+                {
+                    "type": "verb",
+                    "konj": -1,
+                    "lat": "possum",
+                    "perf": "potui",
+                    "ppp": "",
+                    "germ": [
+                        "können"
+                    ],
+                    "played": 0,
+                    "correct": 0,
+                    "special": "konj",
                     "weight": 1
                 },
                 {
@@ -3483,8 +3535,8 @@
                     "type": "verb",
                     "konj": 2,
                     "lat": "soleo",
-                    "perf": "solitus sum",
-                    "ppp": "",
+                    "perf": "",
+                    "ppp": "solitus",
                     "germ": [
                         "gewohnt sein",
                         "pflegen"
