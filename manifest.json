@@ -1,6 +1,6 @@
 {
-    "name": "latein_app",
-    "short_name": "latein_app",
+    "name": "scivi_app",
+    "short_name": "scivi_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
