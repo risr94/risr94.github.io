@@ -1719,7 +1719,7 @@
                             "lat": "tu",
                             "gen": "",
                             "germ": [
-                                "tu"
+                                "du"
                             ],
                             "played": 0,
                             "correct": 0,
@@ -10645,7 +10645,7 @@
                             ],
                             "played": 0,
                             "correct": 0,
-                            "special": "dep",
+                            "special": "semidep_a",
                             "weight": 1
                         },
                         {
@@ -13644,7 +13644,7 @@
                             "lat": "tu",
                             "gen": "",
                             "germ": [
-                                "tu"
+                                "du"
                             ],
                             "played": 0,
                             "correct": 0,
